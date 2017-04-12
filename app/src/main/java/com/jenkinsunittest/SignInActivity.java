@@ -10,7 +10,7 @@ import android.widget.TextView;
 public class SignInActivity extends BaseActivity implements View.OnClickListener {
     private static final String TAG = "SignInActivity";
     private EditText user_gmail_et, user_password_et;
-    private TextView back_to_registration, forgot_signIn;
+//    private TextView back_to_registration, forgot_signIn;
     private Button sign_in_btn;
     private EmailValidator mEmailValidator;
     private PasswordValidator mpasswordValidator;
