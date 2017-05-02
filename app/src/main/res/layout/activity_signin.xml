@@ -13,6 +13,7 @@
         android:layout_marginTop="16dp"
         android:background="@drawable/rounded_corners_edit_text_selector"
         android:hint="Email"
+        android:inputType="textEmailAddress"
         android:imeOptions="actionNext"
         android:paddingLeft="8dp"
         android:singleLine="true" />
